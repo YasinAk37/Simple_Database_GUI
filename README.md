@@ -9,5 +9,5 @@ Firstly you write your user name and password to reach the database interface, u
 
 ## Database Window
 
-![Database Window]()
+![Database Window](https://github.com/YasinAk37/Simple_Database_GUI/blob/8e3e951bec4a74051bef507fd6c352acaa27ebc9/Pictures/app2.png)
 
